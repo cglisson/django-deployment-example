@@ -27,7 +27,7 @@ SECRET_KEY = '$m@nx-qr#03&&*(zghy^iatuib)o9&n)i=@-07b6&(m31i5m&*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cglisson.pythonanywhere.com']
 
 
 # Application definition
